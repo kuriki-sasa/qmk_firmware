@@ -11,7 +11,7 @@ $ qmk compile -kb tps40 -km default
 1. Unplug the USB connector from the TPS40.
 2. Remove the PCB from the case.
 3. Insert the USB connector while keeping the pad with the red frame in the image short-circuited.
-   ![boot0 pads](./boot0.png)
+   ![boot0 pads](boot0.png)
 4. Check that dfu-util detects it.
    ```
    $ dfu-util -l
@@ -25,7 +25,7 @@ $ qmk compile -kb tps40 -km default
 1. Unplug the USB connector from the TPS40.
 2. Remove the PCB from the case.
 3. Insert the USB connector while keeping the pad with the red frame in the image short-circuited.
-   ![boot0 pads](./boot0.png)
+   ![boot0 pads](boot0.png)
 4. Check that dfu-util detects it.
    ```
    $ dfu-util -l
