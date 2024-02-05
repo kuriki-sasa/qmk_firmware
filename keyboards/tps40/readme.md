@@ -36,5 +36,5 @@ $ qmk compile -kb tps40 -km default
    ```
 
 ## LED
-1: CAPS LOCK
+1: CAPS LOCK  
 2-3: Layor indicator
